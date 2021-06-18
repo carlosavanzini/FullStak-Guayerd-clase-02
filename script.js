@@ -25,7 +25,6 @@ let intentos = 0;
 //declaro varible
 let numeroUsuario;
 let repetido=[];
-let esta=0;
 // codigo
 do {
    
